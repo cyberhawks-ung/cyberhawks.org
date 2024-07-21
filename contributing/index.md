@@ -8,15 +8,15 @@ contributing.
 
 ## Be Careful
 
-**Do not include any personally identifiying information in
+* **Do not include any personally identifiying information in
 contributions. Staff should be addressed only by their
 title, not their name. Do not publish any photos of members.**
 
-**Do not include secrets in contributions. That means
+* **Do not include secrets in contributions. That means
 private CTF challenges & answers, passwords, API keys,
 authentication tokens, SSH keys, etc.**
 
-**Do not use any unauthorized copywrited material. Only use
+* **Do not use any unauthorized copywrited material. Only use
 content you have created yourself or that is licensed for
 free use. Cite your sources for images, quotes, specific
 data, creative works, etc.**
@@ -132,7 +132,7 @@ On a page, you can do cool things with Jekyll templates. For
 example, the [Training page](https://cyberhawks.org) lists
 all members of the Training collection like this:
 
-```Markdown
+```markdown
 ---
 title: Training
 layout: default
@@ -140,7 +140,9 @@ layout: default
 
 <!-- Other stuff here... -->
 
+{% raw  %}
 {% for track in site.training %}
 * [{{ track.title }}]({{ track.url }})
 {% endfor %}
+{% endraw %}
 ```
