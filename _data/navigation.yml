@@ -1,0 +1,7 @@
+main:
+  - title: "Training"
+    url: /training/
+  - title: "Competitions"
+    url: /competitions/
+  - title: "Governance"
+    url: /governance/
