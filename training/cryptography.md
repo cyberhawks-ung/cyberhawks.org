@@ -1,5 +1,6 @@
 ---
 title: Cryptography
+layout: post
 ---
 
 In this track, you'll start with the basics of hashes, ciphers, and cryptosystems, then progress to implementing and breaking cryptography.
