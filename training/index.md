@@ -1,6 +1,6 @@
 ---
 title: Training
-layout: default
+---
 
 {% for track in site.training %}
       <li>
