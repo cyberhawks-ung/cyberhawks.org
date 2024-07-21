@@ -1,4 +1,4 @@
-# c[CyberHawks Website](https://cyberhawks.org)
+# [CyberHawks Website](https://cyberhawks.org)
 Source for the CyberHawks' website
 
 ## Contributing
