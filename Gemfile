@@ -1,1 +1,1 @@
-gem "jekyll-whiteglass"
+gem "github-pages"
