@@ -1,7 +1,7 @@
 collections:
   training:
     output: true
-    permalink: /training/:name
+    permalink: /training/:title
 
 # Can't edit these
 lsi: false

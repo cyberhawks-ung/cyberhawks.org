@@ -5,7 +5,7 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <!--<h1 class="post-title">{{ page.title | escape }}</h1>-->
   </header>
 
   <div class="post-content">
@@ -14,23 +14,14 @@ layout: default
 
   <ul class="post-list">
   {% for track in site.training %}
-
     <li>
       <header class="post-header">
-         <h1 class="post-title">
-             <a class="post-link" href="{{ track.url | relative_url }}">{{ track.title | escape }}</a>
-           {% endif %}
-         </h1>
-
-         <p class="post-meta">
-           {% if track.external-url %}
-             • <a href="{{ track.url | relative_url }}">Permalink</a>
-           {% endif %}
-         </p>
-       </header>
-
-     </li>
-    {% endfor %}
+        <h1 class="post-title">
+          <a class="post-link" href="{{ track.url | relative_url }}">{{ track.title }}</a>
+        </h1>
+      </header>
+    </li>
+  {% endfor %}
   </ul>
 
 
