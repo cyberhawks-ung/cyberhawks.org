@@ -1,4 +1,7 @@
-# CyberHawks at UNG
+---
+title: CyberHawks at UNG
+description: CyberHawks is the cybersecurity club at the University of North Georgia.
+---
 
 CyberHawks is the cybersecurity club at the University of North Georgia.
 
