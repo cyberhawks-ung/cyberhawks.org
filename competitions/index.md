@@ -1,3 +1,9 @@
+---
+title: Competitions
+---
+
+Here's a few competitions we've done:
+
 * ImaginaryCTF 2024
 * OS CTF 2024
 * NCX 2024
