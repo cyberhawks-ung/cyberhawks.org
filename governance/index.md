@@ -1,3 +1,5 @@
+# Governance
+
 The CyberHawks abides by a constitution. You may access it on UNG Connect.
 
 ## Officer Meetings
