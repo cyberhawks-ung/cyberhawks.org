@@ -2,8 +2,6 @@
 
 CyberHawks is the cybersecurity club at the University of North Georgia.
 
-![CyberHawks logo](/images/logo.png)
-
 ## Our Mission
 
 We seek to provide hands-on cybersecurity experience to University of North Georgia students by competing in Capture-The-Flag (CTF) events, attending industry conferences, and hosting knowledgable speakers.
