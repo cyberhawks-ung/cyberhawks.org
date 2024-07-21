@@ -5,3 +5,5 @@ main:
     url: /competitions/
   - title: "Governance"
     url: /governance/
+  - title: "Contributing"
+    url: /contributing/
