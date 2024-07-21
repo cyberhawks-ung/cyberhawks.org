@@ -1,6 +1,5 @@
 ---
 title: Contributing
-layout: default
 ---
 
 Please read and follow this document carefully before
