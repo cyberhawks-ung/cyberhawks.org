@@ -2,6 +2,9 @@ collections:
   training:
     output: true
     permalink: /training/:title
+  meetings:
+    output: true
+    permalink: /meetings/:name
 
 # Can't edit these
 lsi: false
