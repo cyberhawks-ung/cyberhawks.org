@@ -1,4 +1,6 @@
 main:
+  - title: "Meetings"
+    url: /meetings/
   - title: "Training"
     url: /training/
   - title: "Competitions"
