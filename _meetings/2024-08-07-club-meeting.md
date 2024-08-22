@@ -21,14 +21,14 @@ description: Welcome back, CyberHawks! In our first meeting of the year, we intr
 * The Institute Instructional Technology Specialist
   introduced the **Cyber Institute**:
 
-    The Institute for Cyber Operations helps develop future
+    "The Institute for Cyber Operations helps develop future
     DoD and federal cyber professionals through
     scholarships, professional development opportunities,
-    and academic support.
+    and academic support."
 
 * Similar organizations:
     * **Cyber Unit**: Focuses on military side of cyber. Open to all.
-    * **WIT**: Networking, mentorship, and scholarship opportunities. Open to all.
+    * **Women in Tech (WIT)**: Networking, mentorship, and scholarship opportunities. Open to all.
 
 ## Meet-and-Greet Capture-The-Flag
 
