@@ -5,7 +5,7 @@ description: Discussed topics for next meeting, renaming the training section on
 ---
 
 * **Location**: Cyber Institute Lounge
-* **Participants**: President, Operations Lead, Competitive Manager,Commander, Deputy Team Lead, Executive Officer
+* **Participants**: President, Operations Lead, Competitive Manager, Commander, Deputy Team Lead, Executive Officer
 
 ## Topics
 * **Next meeting:** What announcements and material do we want to cover at next weeks CyberHawks meeting?
@@ -19,7 +19,7 @@ description: Discussed topics for next meeting, renaming the training section on
 - To put feedback forms on website: **passed**
 
 ## Action Items
-- Forensics student presenter will walk through CTFd challenges at next meeting
-- President will rename training to resources and add  a useful tools list on challenges
-- President will put feedback forms on the CyberHawks website
+- Forensics student presenter will walk through CTFd challenges at next meeting.
+- President will rename training to resources and add  a useful tools list on challenges.
+- President will put feedback forms on the CyberHawks website.
 
