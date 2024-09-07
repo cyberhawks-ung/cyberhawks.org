@@ -16,7 +16,7 @@ description: Discussed topics for next meeting, renaming the training section on
 ## Decisions
 - To walk through CTFd Forensics challenges for next meeting: **Passed**
 - To Rename Training to Resources and add a useful tools list on challenges: **Passed**
-- To put feedback forms on website: **passed**
+- To put feedback forms on website: **Passed**
 
 ## Action Items
 - Forensics student presenter will walk through CTFd challenges at next meeting.
