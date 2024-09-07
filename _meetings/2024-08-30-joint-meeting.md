@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Joint Meeting
-description: Discussion previous meetings minutes, followed up on previous action items, and planning CyberHawks meetings in advance.
+description: Discussed previous meetings minutes, followed up on previous action items, and planning CyberHawks meetings in advance.
 ---
 
 * **Location**: Cyber Institute Conference Room
-* **Participants**: President, Operations Lead, Competitive Manager,Commander, Deputy Team Lead, Executive Officer, Red Team Captain
+* **Participants**: President, Operations Lead, Competitive Manager, Socials Manager, Commander, Deputy Team Lead, Executive Officer, Red Team Captain
 
 ## Topics
 * **Plan CyberHawks meetings:** Do we want to plan CyberHawks meetings on Fridays following the officer meetings to streamline preparation for CyberHawks meetings?
