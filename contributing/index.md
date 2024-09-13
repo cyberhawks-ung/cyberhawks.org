@@ -89,8 +89,8 @@ There are also other descriptors you can add, like
 
 To make a new section on the navbar, create a directory with
 the name you want the URL to end at. For example, the
-`training` directory corresponds to
-[cyberhawks.org/training/](https://cyberhawks.org/training).
+`resources` directory corresponds to
+[cyberhawks.org/resources/](https://cyberhawks.org/resources).
 Create `index.md` inside, and write whatever you'd like.
 
 Next, add the appropriate route to `_data/navigation.yml`.
@@ -98,8 +98,8 @@ Here's what it looks like:
 
 ```yaml
 main:
-  - title: "Training"
-    url: /training/
+  - title: "Resources"
+    url: /resources/
   - title: "Competitions"
     url: /competitions/
   - title: "Governance"
@@ -112,8 +112,8 @@ main:
 
 You can add posts of an existing collection by creating a
 page under that collection's directory. If you wanted to
-create a page "Cooking Spaghetti" under "Training", you could
-create the file `_training/cooking-spaghetti.md`:
+create a page "Cooking Spaghetti" under "Resources", you could
+create the file `_resources/cooking-spaghetti.md`:
 
 ```markdown
 ---
@@ -124,24 +124,24 @@ layout: default
 Salt the water!
 ```
 
-The post will automatically be added to the training index.
+The post will automatically be added to the resources index.
 
 ### Index a Collection
 
 On a page, you can do cool things with Jekyll templates. For
-example, the [Training page](https://cyberhawks.org) lists
-all members of the Training collection like this:
+example, the [Resources page](https://cyberhawks.org) lists
+all members of the Resources collection like this:
 
 ```markdown
 ---
-title: Training
+title: Resources
 layout: default
 ---
 
 <!-- Other stuff here... -->
 
 {% raw  %}
-{% for track in site.training %}
+{% for track in site.resources %}
 * [{{ track.title }}]({{ track.url }})
 {% endfor %}
 {% endraw %}
