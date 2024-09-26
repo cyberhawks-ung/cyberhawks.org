@@ -10,5 +10,7 @@ designed some training tracks to fill in those gaps.
 More to come.
 
 {% for resource in site.resources %}
-* [{{ resources.title }}]({{ resources.url }})
+
+* [{{ resource.title }}]({{ resource.url }})
+
 {% endfor %}
