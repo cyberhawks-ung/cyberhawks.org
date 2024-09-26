@@ -1,5 +1,5 @@
 collections:
-  training:
+  resources:
     output: true
     permalink: /resources/:title
   meetings:
