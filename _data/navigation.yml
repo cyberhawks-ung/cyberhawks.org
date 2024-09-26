@@ -1,8 +1,8 @@
 main:
   - title: "Meetings"
     url: /meetings/
-  - title: "Training"
-    url: /training/
+  - title: "Resources"
+    url: /resources/
   - title: "Competitions"
     url: /competitions/
   - title: "Governance"
