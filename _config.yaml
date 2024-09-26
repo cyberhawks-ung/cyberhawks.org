@@ -1,20 +1,20 @@
 collections:
-  training:
+  resources:
     output: true
-    permalink: /training/:title
+    permalink: /resources/:title
   meetings:
     output: true
     permalink: /meetings/:name
 
 # Can't edit these
-lsi: false
-safe: true
+#lsi: false
+#safe: true
 #source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-remote_theme: "yous/whiteglass"
+#incremental: false
+#highlighter: rouge
+#gist:
+#  noscript: false
+#kramdown:
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
+theme: jekyll-whiteglass
