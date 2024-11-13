@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joint Meeting
-description: Discussed topics for next meeting, voted on new Operations Lead, and discussed halloween night.
+description: Discussed topics for next meeting, voted on new Operations Lead, and discussed Halloween night.
 ---
 
 * **Location**: Cyber Institute Conference Room
@@ -12,7 +12,6 @@ description: Discussed topics for next meeting, voted on new Operations Lead, an
 * **New Operations Lead:** Do we want to have this position be publically elected or board appointed? If board appointed, who will be appointed?
 * **Halloween Night:** Do we need an activity or decorations, and if so who will provide these?
 
-
 ## Decisions
 - Operations Lead will be decided by the board: **Passed**
 - Decided on new Operations Lead: **Passed**
@@ -22,4 +21,3 @@ description: Discussed topics for next meeting, voted on new Operations Lead, an
 - Operations Lead will make slides for next meeting
 - NCO I/C will bring decorations for Halloween Night
 - Social Manager will announce NCL in the discord server at 1:00
-
