@@ -1,7 +1,7 @@
 ---
 layout: post
-title: emergency meeting
-description: 
+title: Emergency Meeting
+description: Discussed and ratified a last-minute change to the constitution allowing specific members of the club leadership to act on behalf of the club to open a checking account. 
 ---
 
 * **Location**: Online
