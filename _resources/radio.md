@@ -3,9 +3,9 @@ title: Software-Defined Radio (SDR)
 layout: post
 ---
 
-With these resources, you can learn how to conduct
-open-source intelligence (OSINT)--that is, how to find
-valuable information online that other people can't.
+With these resources, you can learn how to capture, replay, and demodulate radio
+signals broadcast by wireless devices, as well as craft your own arbitrary
+messages.
 
 Radios:
 * [RTL-SDR](https://www.rtl-sdr.com/about-rtl-sdr/): Cheap (~$40) receive-only
