@@ -9,3 +9,5 @@ valuable information online that other people can't.
 
 * [Sofia Santo's OSINT Challenges](https://gralhix.com/list-of-osint-exercises/)
 * [GeoTips](https://geotips.net/)
+* [OSINT Framework](https://osintframework.com/)
+* [osint.rocks](https://osint.rocks/)
