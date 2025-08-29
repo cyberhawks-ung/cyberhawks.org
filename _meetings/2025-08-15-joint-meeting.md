@@ -34,12 +34,12 @@ description: Discussed upcoming red and blue team competitions, resturucturing o
 - **Overlap Between Red and Blue Teams**
     - Context: Competitve Red and Blue team have a large overlap
     - Motion discussed regarding overlap solutions:
-        - 1. Force roster changes.
-        - 2. Make changes voluntary this year, then implement a rule next year.
-        - 3. Create a junior varsity (JV) team for training and preparation for next year.
+        1. Force roster changes.
+        2. Make changes voluntary this year, then implement a rule next year.
+        3. Create a junior varsity (JV) team for training and preparation for next year.
     - Option 3 approved unanimously
 
-  ## Action Items
+## Action Items
   - CyberHawks Red and Blue Team Captains: Determine and announce Friday Red vs. Blue, and training times.
   - CyberHawks Competitive Manager: Begin planning for DoE CyberForce and CPTC
     
