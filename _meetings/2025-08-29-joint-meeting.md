@@ -6,7 +6,7 @@ description: Discussed the Tech Savvy Expo, Joint Cyber Unit Trainings, Plans fo
 * **Location**: Cyber Institute Conference Room
 * **Participants**: Cyber Unit Deputy Team Lead, CyberHawks Competitive Manager, CyberHawks Operations Lead, CyberHawks Red Team Captain, CyberHawks Student Presenter, CyberHawks Social Media Manager, Cyber Unit Blue Team Captain, CyberHawks President, Women in Tech Representative, Women in Tech President, Cyber Unit Element Leaders, Cyber Unit Commander, Cyber Unit Officer
 
-* ## Announcements
+## Announcements
 * NCX Exists Again-- first or last week of March 2026
 * NSA Codebreaker will run from September 2025 to January 2026
 
