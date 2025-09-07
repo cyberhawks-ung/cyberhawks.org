@@ -40,5 +40,48 @@ description: Approved minutes, finalized agenda submission process, updates on T
 
   - **Red Team**  
     - First meeting successful.  
-    - CPTC deadlines discussed.  
-    - CPTC roster decisio
+    - CPTC deadlines discussed.
+    - CPTC roster decisions to be finalized by end of weekend.  
+    - JV Red and Blue Teams selected and notified earlier this week.  
+
+  - **Blue Team**  
+    - Discussed DOE CyberForce logistics and potential roster.  
+    - Began training for CyberForce competition.  
+
+---
+
+## New Business
+
+- **Cyber Unit**  
+  - Motion approved: Update SOP to officially include Blue Team Captain role.  
+  - Motion approved: Removal of current Officer of Operations, pending proper paperwork.  
+  - Motion approved: Meeting scheduled for Monday at 5:30 PM to amend documentation.  
+  - Motion approved: Cyber Unit 1st Sgt appointed as interim Officer of Operations.  
+  - Next Cyber Unit focus: log analysis training.  
+
+- **CyberHawks**  
+  - Request for Blue Team Captain to present password cracking demo.  
+
+---
+
+## Motions
+
+- **Approved**  
+  - Update Cyber Unit SOP to include Blue Team Captain role.  
+  - Removal of current Officer of Operations.  
+  - Documentation amendments meeting set for Monday, 5:30 PM.  
+  - Appointment of Cyber Unit 1st Sgt as interim Officer of Operations.  
+
+---
+
+## Action Items
+
+- **CyberHawks**  
+  - President: Update website with new meeting room.  
+  - Operations Lead: Seek guest speakers.  
+  - Operations Lead: Set up meeting agenda template and Microsoft Form.  
+  - Operations Lead: Prepare meeting slides (Wednesday).  
+  - T-shirt Subcommittee: Meet Friday, Sept. 5 at 1:00 PM.  
+
+- **Cyber Unit**  
+  - Focus next week: log analysis and log analysis tools. 
