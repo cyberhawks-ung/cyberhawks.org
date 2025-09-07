@@ -3,8 +3,8 @@ main:
     url: /meetings/
   - title: "Resources"
     url: /resources/
-  - title: "Competitions"
-    url: /competitions/
+  - title: "Activities"
+    url: /activities/
   - title: "Governance"
     url: /governance/
   - title: "Contributing"
