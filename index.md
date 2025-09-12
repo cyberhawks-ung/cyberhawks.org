@@ -8,7 +8,7 @@ description: CyberHawks is the cybersecurity club at the University of North Geo
 
 CyberHawks is the cybersecurity club at the University of North Georgia.
 
-![CyberHawks Logo](images/logo.svg)
+![CyberHawks Logo](/assets/images/logo.svg)
 
 ## Our Mission
 

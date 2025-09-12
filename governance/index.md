@@ -3,7 +3,14 @@ layout: page
 title: Governance
 ---
 
-The CyberHawks abides by a constitution. You may access it on UNG Connect.
+The CyberHawks is governed by a constitution. You can [access the CyberHawks
+constitution here](/assets/documents/CyberHawks_Constitution.pdf).
+
+The Cyber Unit follows a standard operating procedure (SOP). You can [access the
+Cyber Unit SOP here](/assets/documents/Cyber_Unit_SOP.pdf).
+
+Both the constitution and standard operating procedure are available on each
+organization's respective UNG Connect page.
 
 ## Officer Meetings
 
@@ -22,4 +29,4 @@ Meetings are typically recorded by minutes, transcript, or audio.
 
 You may read more about each role's responsibilities in the constitution.
 
-![Club structure](/images/club-structure.svg)
+![Club structure](/assets/images/club-structure.svg)
