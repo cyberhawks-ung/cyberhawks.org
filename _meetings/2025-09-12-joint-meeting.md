@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agenda for 9/12/25
+title: Joint Meeting
 description: Agenda covering updated Cyber Unit SOP, T-shirt & sticker production, NSA Codebreaker review, Citadel Cyber Siege planning, WIT Halloween Night collaboration, and motions regarding club structure.
 ---
 
