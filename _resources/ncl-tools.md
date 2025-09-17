@@ -29,6 +29,3 @@ layout: post
 
 - pwndbg  
   GDB/LLDB plugin that enhances low-level debugging with nicer displays and convenience commands for reverse-engineering and exploit dev.
-
-
-Do you want me to also format the descriptions as sub-bullets instead of inline text?
