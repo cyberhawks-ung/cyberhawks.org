@@ -9,6 +9,7 @@ Template for NCL Team Game Spreadsheet
 
 
 * [hashes.com](hashes.com)
+
 searchable index/portal for identifying and looking up recovered plaintexts for many hash values (hash type detection + searchable database). 
 
 cyberchef.org
