@@ -1,8 +1,25 @@
 hashes.com
+searchable index/portal for identifying and looking up recovered plaintexts for many hash values (hash type detection + searchable database). 
+
 cyberchef.org
-aperisolve.com
+“Cyber Swiss Army Knife”: browser-based toolkit for encoding/decoding, encryption, parsing and data transformations. 
+
+aperisolve.com (Aperi’Solve)
+web platform for automated steganalysis/layer analysis of images (uses tools like zsteg, exiftool, binwalk, etc.). 
+
 wigle.net
-https://overpass-turbo.eu/
-https://www.suncalc.org/
-pwntools
-pwndbg
+Wi-Fi/cell hotspot mapping database (wardriving dataset you can query to find SSIDs, MACs and geo coordinates). 
+
+https://overpass-turbo.eu/ — web editor/runner for Overpass API queries against OpenStreetMap (filter & visualize OSM data). 
+overpass-turbo.eu
++1
+
+https://www.suncalc.org/ — interactive sun-position/solar-phase calculator (sunrise/sunset, azimuth, altitude, shadow lengths for any place/time). 
+SunCalc
++1
+
+pwntools — Python CTF/exploit-development library for rapid prototyping of network/local exploits and interacting with binaries/remote services. 
+docs.pwntools.com
++1
+
+pwndbg — GDB/LLDB plugin that enhances low-level debugging with nicer displays and convenience commands for reverse-engineering and exploit dev.
