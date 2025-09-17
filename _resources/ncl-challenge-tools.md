@@ -8,7 +8,6 @@ Template for NCL Team Game Spreadsheet
 [Google sheets link](https://docs.google.com/spreadsheets/d/1LbWelsiOC644HMjEbczUHIytiA-4EeqH/copy)
 
 ## [hashes.com](hashes.com)
-
 searchable index/portal for identifying and looking up recovered plaintexts for many hash values (hash type detection + searchable database). 
 
 ## [cyberchef.org](cyberchef.org)
@@ -28,6 +27,9 @@ web editor/runner for Overpass API queries against OpenStreetMap (filter & visua
 interactive sun-position/solar-phase calculator (sunrise/sunset, azimuth, altitude, shadow lengths for any place/time). 
 
 
-## [pwntools](docs.pwntools.com) — Python CTF/exploit-development library for rapid prototyping of network/local exploits and interacting with binaries/remote services. 
+## [pwntools](docs.pwntools.com)
 
-pwndbg — GDB/LLDB plugin that enhances low-level debugging with nicer displays and convenience commands for reverse-engineering and exploit dev.
+Python CTF/exploit-development library for rapid prototyping of network/local exploits and interacting with binaries/remote services. 
+
+## pwndbg
+GDB/LLDB plugin that enhances low-level debugging with nicer displays and convenience commands for reverse-engineering and exploit dev.
