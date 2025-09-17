@@ -27,5 +27,5 @@ layout: post
 - [pwntools](docs.pwntools.com)  
   Python CTF/exploit-development library for rapid prototyping of network/local exploits and interacting with binaries/remote services.
 
-- pwndbg  
+- [pwndbg](https://github.com/pwndbg/pwndbg)  
   GDB/LLDB plugin that enhances low-level debugging with nicer displays and convenience commands for reverse-engineering and exploit dev.
