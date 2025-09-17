@@ -1,3 +1,8 @@
+Template for NCL Team Game Spreadsheet
+[Download link](https://cdn.discordapp.com/attachments/565590982855360523/1417913048181506138/Template_for_NCL_Team_Game.xlsx?ex=68cc35ee&is=68cae46e&hm=9c295753e40093abbf13e11f07049036aad23464c8fc5776d19f8b2ab1a23b1b&)
+[Google sheets link](https://docs.google.com/spreadsheets/d/1LbWelsiOC644HMjEbczUHIytiA-4EeqH/copy)
+
+
 hashes.com
 searchable index/portal for identifying and looking up recovered plaintexts for many hash values (hash type detection + searchable database). 
 
