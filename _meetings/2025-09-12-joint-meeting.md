@@ -9,7 +9,7 @@ description: Agenda covering updated Cyber Unit SOP, T-shirt & sticker productio
 
 ---
 ## Introduction
-- Approval of Minutes: **Meeting Minutes Approved**
+- Approval of Minutes: Meeting Minutes Approved
 ---
 
 ## Old Business
