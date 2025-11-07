@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agenda for 10/31/25
+title: Meeting Minutes for 10/31/25
 description: Approved minutes with minor edits, reviews of Halloween Night and Cyber Symposium, updates on meetings and subcommittees, and motions regarding financial management and upcoming competitions.
 ---
 
