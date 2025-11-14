@@ -5,7 +5,7 @@ description: Approved minutes, CPTC competition recap, Ghidra MCP presentation, 
 ---
 
 **Location**: Room 269 Staff Conference Room  
-**Participants**: Cyber Unit Deputy Team Lead, CyberHawks Competitive Manager, CyberHawks Operations Lead, CyberHawks Red Team Captain, CyberHawks Student Presenter, Cyber Unit Blue Team Captain, Cyber Unit XO, Cyber Unit Commander, CyberHawks Member, CyberHawks President  
+**Participants**: Cyber Unit Deputy Team Lead, CyberHawks Competitive Manager, CyberHawks Operations Lead, CyberHawks Red Team Captain, CyberHawks Student Presenter, Cyber Unit Blue Team Captain, Cyber Unit XO, Cyber Unit Commander, CyberHawks Member
 
 ---
 
