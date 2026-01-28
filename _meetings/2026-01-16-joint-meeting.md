@@ -1,3 +1,10 @@
+---
+layout: post
+title: Joint Meeting
+description: Discussed the new club finances, the Goldrush Gauntlet Registration status, first meeting logistics, and many small changes to the club constitution which will be ratified in the coming weeks
+---
+
+
 # MEETING MINUTES
 
 ## Introduction
