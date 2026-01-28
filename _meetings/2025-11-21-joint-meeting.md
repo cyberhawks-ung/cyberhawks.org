@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting Minutes for 11/21/25
+title: Minutes for 11/21/25
 description: Minutes covering CyberForce results, NCL performance, Trace Labs OSINT CTF, CIPHER symposium and promotions, motions regarding outreach initiatives, and end-of-semester schedule updates.
 ---
 
