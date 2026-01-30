@@ -45,7 +45,7 @@ CyberHawks Competitive Manager, CyberHawks Operations Lead, CyberHawks President
 
 ### VMI Cyber Fusion Event
 - CTF competition against other Senior Military Colleges (SMCs).  
-- **February 20–21**.  
+- **February 25-27**.  
 - Team needed **ASAP**, immediately following this meeting.  
 
 ### Additional Items
