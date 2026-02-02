@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agenda for 1/30/26
+title: Joint Meeting
 description: CyberHawks and Cyber Unit leadership meeting covering Codebreaker progress, NCX team selection, upcoming competitions, and Cyber Unit updates.
 ---
 
