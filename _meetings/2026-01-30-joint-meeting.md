@@ -16,7 +16,6 @@ CyberHawks Competitive Manager, CyberHawks Operations Lead, CyberHawks President
 ## Approval of Minutes
 
 - Minutes Approved
----
 
 ## Old Business
 
