@@ -78,8 +78,8 @@ CyberHawks Competitive Manager, CyberHawks Operations Lead, CyberHawks President
 ---
 
 ## Motions
+- None
 
-None
 ---
 
 ## Action Items
