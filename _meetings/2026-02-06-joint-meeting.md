@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CyberHawks General Body Meeting
+title: Joint Meeting
 description: Discussed Codebreaker and committee updates, GGCTF planning details, upcoming competitions including DoW, NCX, and CCDC qualifiers, and operational updates across CyberHawks and the Cyber Unit.
 ---
 
