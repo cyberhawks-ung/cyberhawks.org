@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CyberHawks General Body Meeting
+title: Joint Meeting
 description: Discussed CCDC qualifier results and advancement to SECCDC, GGCTF and NCX updates, DoW and SECCDC logistics, new NCL registration, and organizational planning for competitions and training.
 ---
 
