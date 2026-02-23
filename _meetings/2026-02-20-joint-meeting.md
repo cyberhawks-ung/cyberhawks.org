@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joint Leadership Meeting
+title: Joint Meeting
 description: Discussed NCX updates and training progress, malware analysis guest speaker, leadership restructuring with a proposed infrastructure position, and upcoming competition and event announcements.
 ---
 
