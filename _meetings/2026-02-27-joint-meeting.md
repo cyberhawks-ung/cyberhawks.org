@@ -57,7 +57,7 @@ MINUTES APPROVED
 
 ## Upcoming Announcements
 - NCL Registration is open  
-- Summit registration  
+- Summit CTF Registration  
 
 ---
 
