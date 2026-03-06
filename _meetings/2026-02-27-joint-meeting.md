@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting
+title: Joint Meeting
 description: Discussed VMI competition success, GGCTF sponsorship and prize updates, NCX travel and preparation status, constitutional amendments regarding team selection and infrastructure leadership, and upcoming registration deadlines.
 ---
 
