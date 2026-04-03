@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CyberHawks General Body Meeting
+title: Joint Leadership Meeting
 description: Discussed GGCTF success, SECCDC and DoW competition results, RSAC experiences, SummitCTF and NCL updates, and ongoing NCX training and preparation.
 ---
 
