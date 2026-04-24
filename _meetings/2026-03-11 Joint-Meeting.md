@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Joint Meeting
-description: Discussed outreach with Union County High School students, updates from the DoW CIO Workforce competition organizers, training and workshop reviews, GGCTF sponsorship updates, and upcoming constitutional changes.
+description: Discussed outreach with Union County High School students, updates from the DoW CIO Workforce competition organizers, training and workshop reviews, GGCTF 
+date:2026-03-11
+sponsorship updates, and upcoming constitutional changes.
 ---
 
 ## Introduction
