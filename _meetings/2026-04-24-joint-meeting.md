@@ -76,6 +76,6 @@ None
 ## Action Items
 - Create election forms  
 - Create voting forms  
-- Transfer bank accounts to new officers  
+- Transfer bank accounts to new officers (Stewart Cates - President and James Goble - Treasurer)
 
 ---
