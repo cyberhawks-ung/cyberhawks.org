@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Joint Leadership Meeting
 description: Meeting minutes covering the Weeks of Welcome after-action review, Norwich and DoE competition team selections, Goldrush planning, student worker and student presenter role updates, membership probation, and upcoming meeting changes.
 ---
