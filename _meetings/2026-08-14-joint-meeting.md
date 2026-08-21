@@ -45,7 +45,7 @@ MINUTES APPROVED
 ## Reviews
 
 - Norwich competition team selection - two teams of three going to Norwich; need flight info; won't hear anything until September 1st
-- DoE team selection this week - competition team subcommittee selection; institute handling travel; going from 8 to 6 people this year; may be able to bring two teams; application is still open
+- DoE team selection this week - competition team subcommittee selection; institute handling travel; may be able to bring two teams; application is still open
 
 ## Committee Reviews
 
