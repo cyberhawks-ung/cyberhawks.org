@@ -53,7 +53,7 @@ Attendance - Present, Absent
 # Upcoming Announcements/Meetings
 
 - Create an announcement for pie the president, supplies/poster, office of student involvement for posters
-- Cyber Unit: Password cracking and cryptography for NCL prep | Monday: Optional PT | Brief exercise for threat modeling in future meeting
+- Cyber Unit: Password cracking and cryptography for NCL prep, Monday: Optional PT, Brief exercise for threat modeling in future meeting
 - CyberHawks: Student presenter ThreatLocker presentation - Assistant DTL
 
 # Action Items
