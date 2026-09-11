@@ -16,12 +16,12 @@ The University of North Georgia is hosting a beginner friendly Capture the Flag 
 **Where:**
 * The University of North Georgia
 * [The Mike Cottrell College of Business](https://ung.edu/mike-cottrell-college-of-business/index.php)
-* 82 College Cir, Dahlonega, GA 30597
+* 256 S. Chestatee St., Dahlonega GA, 30533
 
 **Who:**
 * Any highschooler is eligible to participate
 * This is also a great opportunity for highschool faculty to network with UNG and develop their cyber programs
-* Teams can range from 1 to 4 people (we would prefer people group as able)
+* Teams can range from 1 to 4 people (full teams of 4 are preferred)
 
 **What:**
 * Challenge categories will include OSINT, Reverse Engineering, Password Cracking, Forensics, and potentially a Full PWN machine
