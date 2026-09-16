@@ -32,7 +32,7 @@ Attendance - Present, Absent
 
 # Approval of Minutes
 
-MINUTES APPROVED
+- Previous meeting minutes approved
 
 # Old Business
 
