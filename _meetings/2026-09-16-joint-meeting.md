@@ -19,7 +19,7 @@ Attendance - Present, Absent
 - Commanding Officer (CO) - Present
 - Deputy Team Leader (DTL) - Present
 - Assistant DTL - Present
-- Executive Officer (XO) - Absent
+- Executive Officer (XO) - Present
 - S1 - Present
 - S2 - Absent
 - S3 - Absent
