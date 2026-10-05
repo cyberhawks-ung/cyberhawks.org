@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joint Leadership Meeting
-description:
+description: subcommittee check-ins and the October 6th volunteer event, SGA funding and the constitution punitive process on second reading, the Norwich AWS GenAI win, the butter socks purchase for CPTC, Cyber Unit advisor roles, and upcoming HackerHalted, CodeBreaker, and AFCEA sessions.
 ---
 
 # Introduction
