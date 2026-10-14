@@ -60,5 +60,5 @@ Attendance - Present, Absent
 
 # Action Items
 
-- Announcement for Cyber Unit to attend 10/08/26 meeting to get assigned for NCRC team - CO
+- Announcement for Cyber Unit to attend 10/08/26 meeting to get assigned for NCRC team - CO 10/08/26
 
