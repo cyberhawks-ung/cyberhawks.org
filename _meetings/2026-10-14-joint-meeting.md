@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joint Leadership Meeting
-description: Meeting minutes covering the NCL keys release, subcommittee check-ins, the constitution punitive process and Cyber Unit advisor search, the Minecraft marketing event, and the upcoming WIT Halloween Night.
+description: Meeting minutes covering the NCL keys release, subcommittee check-ins, the constitution punitive process and Cyber Unit advisor search, the Minecraft marketing event, and the upcoming WIT Halloween Night event.
 ---
 
 # Introduction
