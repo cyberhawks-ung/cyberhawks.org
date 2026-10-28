@@ -3,12 +3,63 @@ layout: page
 title: Activities
 ---
 
-Here's what we've been up to! 
+Here's some of the key things we've been up to! 
+
+## Fall 2026
+<!-- ### NCL-->
+#### DOE CyberForce
+- In Progress
+
+#### CPTC Region
+- In Progress
+
+#### TCDC
+- In Progress
+- Competition Similar to CCDC with added Purple Team Aspects
+- Designed after the ISTS Intiviational Competition
+
+#### Fledglings CTF
+- Registration Closes End of October
+- Capture the Flag for High Schools
+
+## Spring 2026
+#### NCL
+- UNG Team Boss placed 2nd out of 341 in Experienced Bracket
+- UNG Team Bungus placed 8th out of 341 in Experienced Bracket
+- Total of 41 Students competed in Individual Game
+
+#### CCDC Regionals
+- Qualified for the Southeast Regionals for CCDC being 4th out of a lot of other teams
+- Placed 7th out of 10 for regionals
+- Team held first place for majority of the first day
+
+#### DoW CIO Workforce Challenge
+- 1st out of 8 teams
+- SMC / National
+
+#### SummitCTF by VT
+- 3 Teams Competing, UNG took 1st, 3rd, and 4th
+- CTF consisted primarily of SMC students
+- Focused on Critical Infrastructure in the form of an Airport
+
+#### National Cyber Exercise (NCX)
+- UNG Placed 5th out of 10 Teams
+- SMC / National
+- Purple Team exercise focusing on Critical Infrastructure
 
 ## Fall 2025
-<!-- ### NCL-->
-<!-- ### DOE CyberForce-->
-<!-- ### CPTC Region -->
+#### NCL
+- UNG Team Bungus placed 4th out of 454 teams in Experienced Bracket
+- UNG Team Boss placed 9th out of 454 teams in Experienced Bracket
+- Total of 68 Students competed in Individual Game
+
+#### DOE CyberForce
+- 37th out of 100 teams Nationally that competed
+
+#### VMI Cyber Fusion
+- 1st out of 6 Teams
+- SMC Exclusive CTF
+
 #### Hitcon CTF
 - Virtual Competition
 - Challenges focused on realistic incident response and utilizing subtle clues in challenges to solve them
