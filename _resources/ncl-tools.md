@@ -9,7 +9,7 @@ layout: post
 - [hashes.com](https://hashes.com)  
   Searchable index/portal for identifying and looking up recovered plaintexts for many hash values (hash type detection + searchable database).
 
-- [cyberchef.org](https://cyberchef.org)  
+- [CyberChef](https://gchq.github.io/CyberChef/)  
   “Cyber Swiss Army Knife”: browser-based toolkit for encoding/decoding, encryption, parsing and data transformations.
 
 - [Aperi’Solve](https://aperisolve.com)  
