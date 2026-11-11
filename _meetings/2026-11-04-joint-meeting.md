@@ -1,7 +1,7 @@
- ---
+---
 layout: post
 title: Joint Leadership Meeting
-description: 
+description: Meeting minutes covering future plans for apparel and club meetings
 ---
 
 # Introduction
