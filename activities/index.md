@@ -8,10 +8,12 @@ Here's some of the key things we've been up to!
 ## Fall 2026
 <!-- ### NCL-->
 #### DOE CyberForce
-- In Progress
+- Placed 15th overall in DoE CyberForce
+- 12th in Service Up Time, 21st in Red Team, 51st in Documents, 26th in Video, 21st in Anomaly, and 40th in Green
 
 #### CPTC Region
-- In Progress
+- Placed first in CPTC Regionals
+- Going to CPTC Nationals
 
 #### TCDC
 - In Progress
